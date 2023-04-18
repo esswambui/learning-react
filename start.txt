@@ -1,0 +1,2 @@
+--- Start Browser Snc by running this code in the terminal ---->
+npx browser-sync start --server --files "./*.html" --no-open --no-notify --directory
